@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3c42b7a3ecc9444aa30d868c5a5d410, type: 3}
+  m_Name: LeapSmash
+  m_EditorClassIdentifier: 
+  _moveGrid: {fileID: 4900000, guid: 5e689b8d6b9510d42999671f9f0d8e38, type: 3}
+  _moveType: Attack

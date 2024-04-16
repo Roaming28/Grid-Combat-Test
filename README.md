@@ -1,5 +1,5 @@
 # Grid-Combat-Test
-A turn-based combat system inspired by JRPG games like "Live-A-Live" and "Final Fantasy". Players control a character who can move and perform actions on the battlefield. The battlefield is a grid structure (much like a chess board). Different attacks and moves have different patterns. The player must strategise with their characters moveset to outsmart and defeat an enemy. 
+A turn-based combat system developed in the Unity Engine, inspired by JRPG games like "Live-A-Live" and "Final Fantasy". Players control a character who can move and perform actions on the battlefield. The battlefield is a grid structure (much like a chess board). Different attacks and moves have different patterns. The player must strategise with their characters moveset to outsmart and defeat an enemy. 
 
 Features Complete:
 -Grid Creation Tool that works within Unity. It is a GUI that allows a user to setup and define different grid structures to define in game battlefields and player move patterns. The user can then save this as a JSON file to be used in other parts of production.
